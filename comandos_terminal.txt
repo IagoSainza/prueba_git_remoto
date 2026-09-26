@@ -1,2 +1,3 @@
 pwd muestra la ruta del directorio actual
 ls lista el contenido del directorio actual
+mkdir crea una nueva carpeta o directorio
