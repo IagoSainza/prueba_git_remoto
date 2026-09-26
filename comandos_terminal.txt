@@ -1,1 +1,2 @@
 pwd muestra la ruta del directorio actual
+ls lista el contenido del directorio actual
