@@ -1,1 +1,2 @@
 git init Convierte la carpeta actual en un repositorio de Git
+git add Prepara los cambios para el commit, pasándolos al área de staging
